@@ -1,0 +1,4 @@
+1 cc lee 8.70
+2 ken ken 7.80
+3 andy chou 100.00
+4 tim lee 0.00
